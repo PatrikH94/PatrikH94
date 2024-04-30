@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PatrikH94
 - 👀 I’m interested in Coding and Sports
-- 🌱 I’m currently learning C#, Golang and SQL
+- 🌱 I’m currently learning C#, GO and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
